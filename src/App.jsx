@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 
 const languages = [
   { id: 1, title: "HTML", description: "HTML è il linguaggio standard per creare pagine web." },
